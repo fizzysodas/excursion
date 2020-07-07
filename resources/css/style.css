@@ -1,0 +1,43 @@
+html{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    text-align:center;
+    }
+      
+
+    body{
+        margin: 0px;
+        background-color: black;
+        width: fill;
+      
+    }
+    
+    h1{
+        color:white;
+        
+        font-weight: normal;
+        font-size: 50px;
+    }
+    
+    a{
+        color: aquamarine;
+    }
+    
+    h2{
+        font-weight: 300px;
+        font-size: 42px;
+        color: white;
+    }
+    
+    p{
+        font-size: 21px;
+        color: gray;
+    }
+
+    h6{
+        text-align: right;
+        color: gray;
+        font-size: 21px;
+
+    }
